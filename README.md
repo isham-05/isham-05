@@ -1,5 +1,6 @@
+<!--
 # 💫 About Me:
-I'm pursiong degree in computer applications
+I'm pursuing degree in computer applications
 
 
 ## 🌐 Socials:
@@ -20,5 +21,4 @@ I'm pursiong degree in computer applications
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isham-05&icon=8&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-->
