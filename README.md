@@ -1,4 +1,4 @@
-<!--
+
 # 💫 About Me:
 I'm pursuing degree in computer applications
 
@@ -21,4 +21,3 @@ I'm pursuing degree in computer applications
 
 ---
 [![](https://visitcount.itsvg.in/api?id=isham-05&icon=8&color=6)](https://visitcount.itsvg.in)
--->
